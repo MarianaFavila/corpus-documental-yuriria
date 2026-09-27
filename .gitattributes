@@ -1,3 +1,2 @@
-# Conservar los bytes de las transcripciones descargadas.
-*.txt -text
-
+# Conservar los bytes de los textos, anotaciones, inventarios y documentos en todas las plataformas.
+* -text
