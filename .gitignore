@@ -1,0 +1,28 @@
+# Imágenes y reproducciones: revisar permisos antes de compartir.
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.pdf
+*.zip
+*.docx
+*.xlsx
+*.xml
+
+# Exportaciones técnicas y archivos temporales.
+**/log.txt
+*.bak
+*.tmp
+*.swp
+~$*
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+
+# Secretos y archivos locales.
+.env
+.env.*
+*.key
+*.pem
