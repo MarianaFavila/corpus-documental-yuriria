@@ -81,6 +81,7 @@ El HTML asociado con Covarrubias contiene siete caracteres de salto de página (
 | `archivo_texto_anotado`, `archivo_anotaciones`, `archivo_leyenda` | Rutas relativas de los tres componentes necesarios para leer el par. `archivo_anotaciones` termina en `.ann.json.gz` para Ysassy; se descomprime antes de leer el JSON. |
 | `registros_anotacion`, `formato_exportacion` | Recuento de registros y estructura del par. |
 | `transcripcion_principal`, `relacion_con_transcripcion` | Correspondencia propuesta con el corpus de transcripciones y resultado de la comparación textual disponible. |
+| `autor_anotaciones` | Rodrigo Vega Sánchez, según confirmación del proyecto del 28 de septiembre de 2026. |
 | `estado_revision`, `estado_derechos` | Comprobaciones pendientes para uso, cita y eventual difusión. |
 | `ruta_origen_relativa`, `observaciones` | Ubicación de la exportación en las carpetas de trabajo y notas de selección. |
 
